@@ -4,6 +4,4 @@ Run the go project using:
 
 #### This is a CRUD learning project for a Movies Dataset.
 
-> cd go-easy-crud
-> go build
-> go run main.go
+`cd go-easy-crud` > `go build` > `go run main.go`
